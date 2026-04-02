@@ -1,60 +1,80 @@
 <div align="center">
 
-<img src="./header.svg" width="500"/>
+<img src="./header.svg" width="860"/>
 
-### `> Welcome to my GitHub_`
-
-</div>
-
----
-
-<div align="center">
-
-## 👾 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9333EA&center=true&vCenter=true&width=500&lines=C%2B%2B+%26+ImGui+Developer;Python+Scripter+%26+Automator;Web+Developer;Building+tools+that+actually+work.)](https://git.io/typing-svg)
 
 </div>
 
-```cpp
-#include <iostream>
-#include <string>
-#include <vector>
+<br/>
 
-class Developer {
-public:
-    std::string name     = "Louis";
-    std::string location = "Bavaria, Germany 🇩🇪";
-    std::string focus    = "Systems, Tools & Web";
-
-    std::vector<std::string> stack = {
-        "C++ — ImGui menus, system tools, overlays",
-        "Python — automation, scripts, bots",
-        "Web — HTML, CSS, JS, React"
-    };
-
-    void introduce() {
-        std::cout << "I build in C++ with ImGui for clean UIs." << std::endl;
-        std::cout << "Menus, overlays, system tools — that's my thing." << std::endl;
-        std::cout << "I also do Python and build websites." << std::endl;
-        std::cout << "No fluff. Just code that works." << std::endl;
-    }
-};
-
-int main() {
-    Developer me;
-    me.introduce();
-    return 0;
-}
+```
+┌─────────────────────────────────────────────────────────────┐
+│                        whoami                               │
+├─────────────────────────────────────────────────────────────┤
+│  Name     →  Louis                                          │
+│  Location →  Bavaria, Germany 🇩🇪                           │
+│  Focus    →  Systems, UI Tools & Web                        │
+│  Stack    →  C++  •  ImGui  •  Python  •  Web               │
+└─────────────────────────────────────────────────────────────┘
 ```
 
+<br/>
+
+<div align="center">
+
+## ⚡ What I Build
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+**🖥️ C++ & ImGui**
+<br/>
+Custom menus, overlays,
+<br/>
+system tools & UIs
+
+</td>
+<td align="center" width="33%">
+
+**🐍 Python**
+<br/>
+Automation scripts,
+<br/>
+bots & tools
+
+</td>
+<td align="center" width="33%">
+
+**🌐 Web**
+<br/>
+Websites & web apps
+<br/>
+with modern tech
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ---
 
 <div align="center">
 
-## 🛠️ Technologies
+## 🛠️ Tech Stack
+
+<br/>
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![ImGui](https://img.shields.io/badge/ImGui-grey?style=for-the-badge&logo=cplusplus&logoColor=white)
+![ImGui](https://img.shields.io/badge/ImGui-6d28d9?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+<br/>
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -62,36 +82,46 @@ int main() {
 
 </div>
 
+<br/>
+
 ---
 
 <div align="center">
 
-## 📊 Statistics
+## 📊 Stats
 
-![Louis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=louis7ouis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=c084fc&text_color=c9d1d9)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=louis7ouis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9)
+<img src="https://github-readme-stats.vercel.app/api?username=louis7ouis&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9333ea&icon_color=ec4899&text_color=e2e8f0&ring_color=9333ea" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louis7ouis&layout=compact&hide_border=true&bg_color=0d1117&title_color=9333ea&text_color=e2e8f0" height="160"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=louis7ouis&theme=transparent&hide_border=true&ring=9333ea&fire=ec4899&currStreakLabel=9333ea&sideLabels=e2e8f0&dates=6b7280&background=0d1117" height="160"/>
 
 </div>
 
+<br/>
+
 ---
 
 <div align="center">
 
-## 📈 Contribution Graph
+## 📈 Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=louis7ouis&theme=react-dark&hide_border=true&bg_color=0d1117&color=c084fc&line=a855f7&point=f0abfc)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=louis7ouis&theme=react-dark&hide_border=true&bg_color=0d1117&color=9333ea&line=ec4899&point=f472b6&area=true&area_color=9333ea"/>
 
 </div>
 
+<br/>
+
 ---
 
 <div align="center">
 
-```
-// still building. stay tuned.
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer" width="100%"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=louis7ouis&color=c084fc&style=flat-square&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=louis7ouis&color=9333ea&style=flat-square&label=profile+views)
 
 </div>
