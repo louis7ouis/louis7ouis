@@ -89,11 +89,7 @@ Crafting precise prompts
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=louis7ouis&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9333ea&icon_color=ec4899&text_color=e2e8f0&ring_color=9333ea" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louis7ouis&layout=compact&hide_border=true&bg_color=0d1117&title_color=9333ea&text_color=e2e8f0" height="160"/>
 
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=louis7ouis&theme=transparent&hide_border=true&ring=9333ea&fire=ec4899&currStreakLabel=9333ea&sideLabels=e2e8f0&dates=6b7280&background=0d1117" height="160"/>
 
