@@ -1,18 +1,6 @@
 <div align="center">
 
-<svg width="400" height="90" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%">
-        <animate attributeName="stop-color" values="#a855f7;#ec4899;#a855f7" dur="3s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%">
-        <animate attributeName="stop-color" values="#ec4899;#a855f7;#ec4899" dur="3s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-  </defs>
-  <text x="50%" y="65" font-family="monospace" font-size="64" font-weight="bold" text-anchor="middle" fill="url(#grad)">Louis</text>
-</svg>
+<img src="./header.svg" width="500"/>
 
 ### `> Welcome to my GitHub_`
 
