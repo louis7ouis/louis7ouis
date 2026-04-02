@@ -6,20 +6,8 @@
 
 </div>
 
-<br/>
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                        whoami                               │
-├─────────────────────────────────────────────────────────────┤
-│  Name     →  Louis                                          │
-│  Location →  Bavaria, Germany 🇩🇪                           │
-│  Focus    →  Systems, UI Tools & Web                        │
-│  Stack    →  C++  •  ImGui  •  Python  •  Web               │
-└─────────────────────────────────────────────────────────────┘
-```
 
-<br/>
 
 <div align="center">
 
@@ -29,7 +17,7 @@
 
 <table align="center">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 **🖥️ C++ & ImGui**
 <br/>
@@ -38,7 +26,7 @@ Custom menus, overlays,
 system tools & UIs
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 **🐍 Python**
 <br/>
@@ -47,13 +35,22 @@ Automation scripts,
 bots & tools
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 **🌐 Web**
 <br/>
 Websites & web apps
 <br/>
 with modern tech
+
+</td>
+<td align="center" width="25%">
+
+**🤖 AI Prompting**
+<br/>
+Crafting precise prompts
+<br/>
+& AI-powered workflows
 
 </td>
 </tr>
