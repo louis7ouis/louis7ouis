@@ -1,0 +1,31 @@
+<svg width="860" height="120" viewBox="0 0 860 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4a0080">
+        <animate attributeName="stop-color" values="#4a0080;#9333ea;#ec4899;#9333ea;#4a0080" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#9333ea">
+        <animate attributeName="stop-color" values="#9333ea;#ec4899;#f472b6;#ec4899;#9333ea" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#f472b6">
+        <animate attributeName="stop-color" values="#f472b6;#4a0080;#9333ea;#f472b6;#f472b6" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <text
+    x="50%" y="85"
+    font-family="'Courier New', monospace"
+    font-size="88"
+    font-weight="900"
+    text-anchor="middle"
+    fill="url(#textGrad)"
+    filter="url(#glow)"
+    letter-spacing="8">Louis</text>
+</svg>
